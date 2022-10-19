@@ -11,6 +11,7 @@ App built with Angular 13 and Angular Material UI that allow us to list products
 - "Add Product" button
 - "Add Product" Form
 - Update and Delete Product Actions
+- Form include text fields, date picker, radio button and picklist.
 
 
 
