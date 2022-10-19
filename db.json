@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "test1",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "Test #1",
+      "date": "2022-10-06T06:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "test 2",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 5,
+      "comment": "test 2",
+      "date": "2022-10-29T06:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "test3",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 33,
+      "comment": "test 3",
+      "date": "2022-10-31T06:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
